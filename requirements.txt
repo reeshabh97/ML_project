@@ -58,7 +58,6 @@ pyparsing
 pyrsistent
 python-dateutil
 pytz==2021.1
-pywinpty
 pyzmq
 qtconsole
 QtPy==1.9.0
